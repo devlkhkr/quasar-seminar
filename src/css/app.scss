@@ -37,6 +37,7 @@ code {
 
 .code {
   max-width: 100%;
+  margin: 8px 0;
 }
 
 .code_wrap {
@@ -76,4 +77,12 @@ ul.list {
   display: flex;
   flex-flow: column;
   gap: 16px;
+}
+
+a {
+  color: #222;
+  transition-duration: 0.3s;
+  &:hover {
+    color: #1976d2;
+  }
 }

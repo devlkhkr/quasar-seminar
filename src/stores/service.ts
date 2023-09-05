@@ -2,8 +2,8 @@ import { defineStore } from 'pinia';
 
 export const serviceStore = defineStore('service', {
   state: () => ({
-    userId: '',
-    userName: '',
+    userId: 'id0001',
+    userName: 'leekanghyoung',
     userReviewCount: 20,
   }),
   getters: {

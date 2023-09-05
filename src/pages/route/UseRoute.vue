@@ -3,8 +3,11 @@
   <p class="text-body2" style="margin-bottom: 16px">
     라우터 네비게이션 사용: Vue 컴포넌트 내에서 $router와 $route 객체를 사용하여
     라우트 네비게이션을 수행합니다. template 내에서 사용할때는 script에
-    선언되어있지 않아도 $route, $router로 사용이 가능합니다. script 영역에서
-    사용시 useRoute, useRouter로 인스턴스를 생성후 메소드를 호출하여야 합니다.
+    선언되어있지 않아도 $route, $router로 사용이 가능합니다.
+    <mark
+      >script 영역에서 사용시 useRoute, useRouter로 인스턴스를 생성후 메소드를
+      호출</mark
+    >하여야 합니다.
   </p>
   <ul class="list">
     <li>$router.push()를 사용하여 다른 경로로 이동합니다.</li>

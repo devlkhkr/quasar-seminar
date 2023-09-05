@@ -1,6 +1,6 @@
 export const Links = [
   {
-    label: 'HOME : <Seminar for Quasar>',
+    label: 'HOME : <Seminar on Quasar>',
     icon: 'o_home',
     path: '/',
   },
