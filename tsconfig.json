@@ -1,0 +1,9 @@
+{
+  "extends": "@quasar/app-webpack/tsconfig-preset",
+  "compilerOptions": {
+    "baseUrl": "."
+  },
+  "include": [
+    "@types/*.d.ts" // 새로 만든 타입 선언 파일 포함 규칙
+  ]
+}
