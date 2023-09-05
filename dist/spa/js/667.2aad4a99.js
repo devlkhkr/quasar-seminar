@@ -1,0 +1,1 @@
+"use strict";(globalThis["webpackChunkquasar"]=globalThis["webpackChunkquasar"]||[]).push([[667],{7667:(a,u,r)=>{r.r(u),r.d(u,{default:()=>t});var n=r(9835);function e(a,u){return(0,n.wg)(),(0,n.iD)("div",null,"build MainPage")}var i=r(1639);const l={},s=(0,i.Z)(l,[["render",e]]),t=s}}]);
