@@ -1,3 +1,5 @@
+# preview : https://devlkhkr.github.io/quasar-seminar/dist/spa
+
 # quasar (quasar)
 
 A Quasar Project
