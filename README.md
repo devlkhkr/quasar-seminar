@@ -1,4 +1,5 @@
-# preview : https://devlkhkr.github.io/quasar-seminar/dist/spa
+# preview
+https://devlkhkr.github.io/quasar-seminar/dist/spa
 
 # quasar (quasar)
 
